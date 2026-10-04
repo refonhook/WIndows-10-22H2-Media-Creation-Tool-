@@ -1,4 +1,5 @@
-# Media Creation Tool для Windows 10 22H2 RU:
+# Media Creation Tool для Windows 10 22H2 
+RU:
 
 Оригинальный Media Creation Tool от Microsoft для Windows 10 версии 22H2.
 
@@ -22,8 +23,9 @@ Microsoft удалила эту версию с официального сай�
 
 
 
-EN:
+
 # Media Creation Tool for Windows 10 22H2
+EN:
 
 Original Microsoft Media Creation Tool for Windows 10 version 22H2.
 
